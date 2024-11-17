@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi there, I'm Roopak! 
 
+![](https://komarev.com/ghpvc/?username=RoopakCS&style=for-the-badge&abbreviated=true)
+
 ## 🚀 About Me
 - 🎓 **B.Tech Information Technology** student at Saveetha Engineering College (2nd Year, 3rd Semester).
 - 💻 Passionate about cybersecurity, web development and building impactful projects.
@@ -22,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 ## 💬 Let's Connect
 - 📧 Email: [roopaksenthilkumar@gmail.com](mailto:roopaksenthilkumar@gmail.com)
 - 🌐 GitHub: [My GitHub](https://github.com/RoopakCS)
+- 🌐 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/roopakcs/)
 
 ---
 
